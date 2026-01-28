@@ -53,7 +53,7 @@ const Contact = observer(() => {
                             <ListItemIcon>
                                 <LocalPhoneIcon />
                             </ListItemIcon>
-                            <ListItemText primary="Телефон" secondary="+7 919 662 83 30" />
+                            <ListItemText primary="Телефон" secondary="+7 919 652 75 74" />
                         </ListItemButton>
                     </ListItem>
                     <ListItem
@@ -67,7 +67,7 @@ const Contact = observer(() => {
                             <ListItemIcon>
                                 <img src={viber} alt="Viber" width={21} />
                             </ListItemIcon>
-                            <ListItemText primary="Viber" secondary="+7 919 662 83 30" />
+                            <ListItemText primary="Viber" secondary="+7 919 652 75 74" />
                         </ListItemButton>
                     </ListItem>
                     <ListItem
@@ -81,7 +81,7 @@ const Contact = observer(() => {
                             <ListItemIcon>
                                 <WhatsAppIcon />
                             </ListItemIcon>
-                            <ListItemText primary="WhatsApp" secondary="+7 919 662 83 30" />
+                            <ListItemText primary="WhatsApp" secondary="+7 919 652 75 74" />
                         </ListItemButton>
                     </ListItem>
                     <ListItem

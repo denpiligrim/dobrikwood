@@ -85,7 +85,7 @@ const Footer = observer(() => {
           <Typography variant="h6" component="span" color="white" sx={{
             display: 'inline-block'
           }}>
-            +7 919 662 83 30
+            +7 919 652 75 74
           </Typography>
         </Link>
       </Grid>
