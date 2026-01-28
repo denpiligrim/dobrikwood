@@ -54,7 +54,7 @@ const Header = () => {
             {window.innerWidth > 600 && (
               <Search />
             )}
-            <Link variant='h6' underline="none" href="tel:+79196628330" sx={{
+            <Link variant='h6' underline="none" href="tel:+79196527574" sx={{
               display: 'inline-block',
               verticalAlign: 'middle',
               color: 'white',
@@ -105,7 +105,7 @@ const Header = () => {
       <Grid item xs={12} py={1} pr={'1rem'} justifyContent={'center'} alignItems={'center'} sx={{ display: { xs: 'flex', sm: 'none' }, backgroundColor: 'white' }} textAlign={'center'}>
         {!(window.innerWidth > 600) && (
           <>
-            <IconButton aria-label="phone" onClick={() => location.href = "tel:+79196628330"} size="large">
+            <IconButton aria-label="phone" onClick={() => location.href = "tel:+79196527574"} size="large">
               <LocalPhoneIcon color='primary' />
             </IconButton>
             <Search />

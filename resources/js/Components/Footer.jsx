@@ -52,12 +52,12 @@ const Footer = observer(() => {
             </IconButton>
           </Tooltip>
           <Tooltip title="WhatsApp" disableInteractive placement="top-start">
-            <IconButton aria-label="WhatsApp" component={RouterLink} to="https://wa.me/79196628330">
+            <IconButton aria-label="WhatsApp" component={RouterLink} to="https://wa.me/79196527574">
               <WhatsAppIcon />
             </IconButton>
           </Tooltip>
           <Tooltip title="Viber" disableInteractive placement="top-start">
-            <IconButton aria-label="Viber" component={RouterLink} to="viber://chat?number=%2B79196628330">
+            <IconButton aria-label="Viber" component={RouterLink} to="viber://chat?number=%2B79196527574">
               <img src={viber} alt="Viber" width={21} />
             </IconButton>
           </Tooltip>
@@ -72,7 +72,7 @@ const Footer = observer(() => {
             </IconButton>
           </Tooltip>
         </Stack>
-        <Link variant='body1' underline="none" href="tel:+79196628330" sx={{
+        <Link variant='body1' underline="none" href="tel:+79196527574" sx={{
           color: 'white',
           background: '#60a47c',
           padding: 1,

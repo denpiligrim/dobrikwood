@@ -45,11 +45,11 @@ const Contact = observer(() => {
                     <ListItem
                         disablePadding
                         secondaryAction={
-                            <IconButton edge="end" aria-label="copy" onClick={() => copyText('+79196628330')}>
+                            <IconButton edge="end" aria-label="copy" onClick={() => copyText('+79196527574')}>
                                 <ContentCopyIcon />
                             </IconButton>
                         }>
-                        <ListItemButton component={RouterLink} to="tel:+79196628330">
+                        <ListItemButton component={RouterLink} to="tel:+79196527574">
                             <ListItemIcon>
                                 <LocalPhoneIcon />
                             </ListItemIcon>
@@ -59,11 +59,11 @@ const Contact = observer(() => {
                     <ListItem
                         disablePadding
                         secondaryAction={
-                            <IconButton edge="end" aria-label="copy" onClick={() => copyText('viber://chat?number=%2B79196628330')}>
+                            <IconButton edge="end" aria-label="copy" onClick={() => copyText('viber://chat?number=%2B79196527574')}>
                                 <ContentCopyIcon />
                             </IconButton>
                         }>
-                        <ListItemButton component={RouterLink} to="viber://chat?number=%2B79196628330">
+                        <ListItemButton component={RouterLink} to="viber://chat?number=%2B79196527574">
                             <ListItemIcon>
                                 <img src={viber} alt="Viber" width={21} />
                             </ListItemIcon>
@@ -73,11 +73,11 @@ const Contact = observer(() => {
                     <ListItem
                         disablePadding
                         secondaryAction={
-                            <IconButton edge="end" aria-label="copy" onClick={() => copyText('https://wa.me/79196628330')}>
+                            <IconButton edge="end" aria-label="copy" onClick={() => copyText('https://wa.me/79196527574')}>
                                 <ContentCopyIcon />
                             </IconButton>
                         }>
-                        <ListItemButton component={RouterLink} to="https://wa.me/79196628330">
+                        <ListItemButton component={RouterLink} to="https://wa.me/79196527574">
                             <ListItemIcon>
                                 <WhatsAppIcon />
                             </ListItemIcon>

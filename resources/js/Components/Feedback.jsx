@@ -31,8 +31,8 @@ const Feedback = () => {
 
     const actions = [
         { icon: <TelegramIcon />, name: 'Telegram', link: "https://t.me/dobrikwood" },
-        { icon: <WhatsAppIcon />, name: 'WhatsApp', link: "https://wa.me/79196628330" },
-        { icon: <ViberIcon />, name: 'Viber', link: "viber://chat?number=%2B79196628330" }
+        { icon: <WhatsAppIcon />, name: 'WhatsApp', link: "https://wa.me/79196527574" },
+        { icon: <ViberIcon />, name: 'Viber', link: "viber://chat?number=%2B79196527574" }
     ];
 
     return (
